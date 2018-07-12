@@ -83,7 +83,7 @@ footer {
     text-align: center;
   }
 } */
-/* @media (min-width:900px) {
+@media (min-width:900px) {
   .main {
     width: 80%;
     display: flex;
@@ -102,4 +102,4 @@ footer {
     padding: 1%;
     text-align: center;
   }
-} */
+}
